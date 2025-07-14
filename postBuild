@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/jpxts_src/Statistical Code/Final Submission/07_Manuscript")' >> /home/jovyan/.Rprofile
